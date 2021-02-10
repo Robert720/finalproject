@@ -1,0 +1,21 @@
+.nav-wrapper {
+display: flex;  
+justify-content: space-between;
+padding: 38px;
+}
+.left-side {
+    display: flex
+    justify: space-between
+}
+.nav-wrapper  >  .left-side  > div {
+    margin-right: 20px;
+    font-size: 0.9em;
+
+
+
+}
+
+
+
+
+}
