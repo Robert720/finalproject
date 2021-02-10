@@ -5,17 +5,19 @@ padding: 38px;
 }
 .left-side {
     display: flex
-    justify: space-between
+    justify; space-between
 }
 .nav-wrapper  >  .left-side  > div {
-    margin-right: 20px;
+    margin-right :20px;
     font-size: 0.9em;
+.nav-link-wrapper {
+    height: 22px;
+    border-bottom: solid transparent
+    transition: border bottom 0.5s;
+.nav-link-wrapper a {
+    color: #BaBaBa
 
 
 
-}
 
-
-
-
-}
+}   
