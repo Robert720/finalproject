@@ -15,9 +15,12 @@ padding: 38px;
     border-bottom: solid transparent
     transition: border bottom 0.5s;
 .nav-link-wrapper a {
-    color: #BaBaBa
-
-
-
-
+    color: #BaBaBa;
+    text-decoration: none;
+    transition: color 0.5s;
+.nav-link-wrapper:hover {
 }   
+.nav-link-wrapper:hover 
+{
+    border-bottom: 1px solid black
+}
